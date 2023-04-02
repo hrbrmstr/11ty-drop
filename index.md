@@ -3,7 +3,7 @@ title: "Bonus Drop #89 (2023-04-02): There. Are. Four. Hundos."
 layout: core.njk
 ---
 
-# Bonus Drop #89 (2023-04-02): There. Are. Four. Hundos.
+# Bonus Drop #9 (2023-04-02): There. Are. Four. Hundos.
 Eleventy; Penthouse/Critical CSS; 
 
 There's no foolin' the next-level supporters of the Drop! Meaning: I deliberately avoided posting the Bonus Drop yesterday, lest have ye wondering if any given topic was duplicitous or faithful.
@@ -21,6 +21,8 @@ So, today, we'll explore a (relatively) new [static site generator](https://en.w
 
 
 ### Eleventy
+
+![](img/2023-04-02-16-00-50.png)
 
 If you've been bouncing around the internets of late, you have most certainly come across at least one site that uses Eleventy ([11ty.dev](https://www.11ty.dev/)).
 
@@ -87,6 +89,8 @@ I'll leave you with one more resource to convince you give 11ty a go. _(I'll be 
 https://www.youtube.com/watch?v=kzf9A9tkkl4
 
 ### Penthouse/Critical CSS
+
+![](img/2023-04-02-16-03-47.png)
 
 This'll be quick…!
 
