@@ -79,12 +79,37 @@ touch core.njk
 npx @11ty/eleventy
 ```
 
+It would have worked _just fine_ if you just added some markdown in `index.md`, but it would not have been "pretty". This basic structure is at least tolerable to the eyes.
+
+I'll leave you with one more resource to convince you give 11ty a go. _(I'll be showing more 11ty bits in future Drops, so you can't escape!)_
 
 "6 minutes to Build a Blog from Scratch."
 https://www.youtube.com/watch?v=kzf9A9tkkl4
 
+### Penthouse/Critical CSS
+
+This'll be quick…!
+
+[Penthouse](https://github.com/pocketjoso/penthouse) is _the original critical path css generator, helping you out to speed up page rendering for your websites. Supply your site's full CSS and the page you want to create the critical CSS for, and Penthouse will return the critical CSS needed to perfectly render the above the fold content of the page"._
+
+If "critical path CSS" sounds formal/daunting it kind of "is" and "isn't" at the same time.
+
+Our human inability to have patience and Google's march (via SEO/Lighthouse) to ensure we do not have patience means it is _kind of_ important to get decent looking content to the eyes of consumers as quickly as possible. That's created an entire wonk-industry around how to measure and improve "performance".
+
+"Critical path CSS" refers to the minimum set of CSS rules required to style the content that is visible to the user when the web page initially loads. Essentially, it's the CSS necessary to make the first impression of the website visually appealing and properly formatted.
+
+When a web page loads, the browser needs to download, parse, and apply CSS to display the content correctly. However, not all CSS rules are needed right away; some of them apply to content that isn't visible until the user scrolls down or interacts with the page. By identifying and prioritizing the critical path CSS, you can improve the perceived loading speed of your website. This is because the browser can render the visible content quickly without waiting for the entire CSS file to load, resulting in a better user experience.
+
+You can read _alot_ more about that [here](https://www.phpied.com/css-and-the-critical-path/).
+
+Penthouse (odd name, but it's because CSS is at the top of the page). 
+
+It's _another_ javascript tool, and, you may be tired of that in this issue, so why not just [use it online](https://jonassebastianohlsson.com/criticalpathcssgenerator/)! Input a URL and your CSS and 💥, you've got faster load times.
+
+This tool/site may just help you get all Four Hundos!
+
 ### FIN
 
-Just two extra topics since I spent far too much time, this weekend, on a [non-web WebR project](https://github.com/hrbrmstr/macoswasmr) that I think a few folks will find useful.
+Just two extra topics since I spent far too much time, this weekend, on a [non-web WebR project](https://github.com/hrbrmstr/macoswasmr) that I think a few folks will find useful, and you got an entire 11ty starter project with this one 🙃.
 
 Thank ye once more for your support! ☮
