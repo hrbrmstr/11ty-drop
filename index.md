@@ -19,7 +19,7 @@ where folks in front-end land seem to acquire bragging rights _(rightfully so!)_
 
 So, today, we'll explore a (relatively) new [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that is both creator- and "hundos"-friendly and a tool/site to help you up-level your CSS (since, we are all kind of web publishers, now).
 
-## Eleventy
+# Eleventy
 
 ![](img/2023-04-02-16-00-50.png)
 
@@ -87,7 +87,7 @@ I'll leave you with one more resource to convince you give 11ty a go. _(I'll be 
 "6 minutes to Build a Blog from Scratch."
 https://www.youtube.com/watch?v=kzf9A9tkkl4
 
-## Penthouse/Critical CSS
+# Penthouse/Critical CSS
 
 ![](img/2023-04-02-16-03-47.png)
 
